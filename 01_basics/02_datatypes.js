@@ -25,4 +25,6 @@ PRIMITIVE DATA-TYPES
 
 // object 
 
+// heyy!!!
+
 console.log(typeof locality);
